@@ -6,3 +6,6 @@ For my project I made use of prompting to evaluate the GEITje-7B-ultra on gramma
 The sentences, are sourced from linguistic material.
 
 The intermediate.csv file is needed to construct the complete intermediate dataset used with prompting GEITje.
+
+Collin Krooneman
+June 2024
